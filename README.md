@@ -1,2 +1,2 @@
 # Loproc
-Loproc (**LO**w-level **PROC**edural) is an interpreted programming language for scripting chains of events.
+Loproc (**LO**w-level **PROC**edural) or "loproclang", is an interpreted programming language for scripting chains of events.
